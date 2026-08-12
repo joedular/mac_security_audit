@@ -23,7 +23,7 @@ Un script de bash ligero e integral diseñado para auditar la seguridad, detecta
 
 1. Clona este repositorio o descarga el archivo `mac_security_audit.sh`:
    ```bash
-   git clone [https://github.com/joedular/mac-security-audit.git](https://github.com/joedular/mac-security-audit.git)
+   git clone https://github.com/joedular/mac-security-audit.git
    cd mac-security-audit
 
 2. Otorga permisos de ejecución al script:
